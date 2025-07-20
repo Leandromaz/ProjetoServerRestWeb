@@ -1,0 +1,5 @@
+# Ignorar todos os arquivos .log
+*.log
+
+# Ignorar a pasta de logs chamada "logs"
+logs/
